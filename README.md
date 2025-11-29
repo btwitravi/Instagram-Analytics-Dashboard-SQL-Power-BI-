@@ -1,4 +1,5 @@
-# 📊 Instagram Analytics (SQL + Power BI)
+# 📊 Instagram Analytics ( ![SQL](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00618A)+![Power BI](https://img.shields.io/badge/PowerBI-Analytics-informational?style=flat&logo=powerbi&logoColor=white&color=F2C811) )
+
 
 A complete Instagram analytics project using **SQL** for data analysis and **Power BI** for visualization.  
 This project identifies engagement trends, traffic source performance, follower growth patterns, and content effectiveness.
