@@ -33,10 +33,11 @@ Analyze Instagram post performance to identify:
 | File/Folder | Description |
 |------------|-------------|
 | **Problem_Statement.pdf** | Business context & analysis objective |
+| **Instagram_Analytics_PPT.pptx** | Report Presenttion |
 | **Instagram_Dashboard.pbix** | Full Power BI dashboard file |
 | **Instagram_Dashboard.png** | Dashboard preview |
 | **instagram_queries.sql** | All SQL analysis queries |
-| **Insagram_Analytics.csv** | Csv File
+| **Insagram_Analytics.csv** | Csv File |
 
 ---
 
@@ -73,7 +74,7 @@ Full queries here →
 ## 📊 Power BI Dashboard
 
 ### 🔹 Dashboard Preview  
-![Instagram Dashboard](Dashboard/Instagram_Dashboard.png)
+![Instagram Dashboard](Instagram_Dashboard.png)
 
 ### 🔹 Dashboard File  
 📄 **Instagram_Dashboard.pbix** (included in repo)
