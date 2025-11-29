@@ -21,7 +21,7 @@ Analyze Instagram content performance to identify:
 | File/Folder | Description |
 |-------------|-------------|
 | **Instagram Business Problem.pdf** | Business problem / objective of analysis |
-| **Instagram Dashboard.pbix** | Power BI dashboard file |
+| **Instagram_Dashboard.pbix** | Power BI dashboard file |
 | **Instagram_Dashboard.png** | Dashboard preview image |
 | **Sinstagram_queries.sql** | All SQL queries used in analysis |
 | **Instagram_Analytics.csv** | Csv File |
