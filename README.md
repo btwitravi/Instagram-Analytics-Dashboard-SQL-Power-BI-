@@ -1,4 +1,7 @@
-# 📊 Instagram Analytics ( ![SQL](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00618A)+![Power BI](https://img.shields.io/badge/PowerBI-Analytics-informational?style=flat&logo=powerbi&logoColor=white&color=F2C811) )
+# 📊 Instagram Analytics ( [![SQL](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00618A)](https://github.com/btwitravi/Instagram-Analytics-Dashboard-SQL-Power-BI-/blob/main/SQL/instagram_queries.sql)
+
+[![Power BI](https://img.shields.io/badge/PowerBI-Analytics-informational?style=flat&logo=powerbi&logoColor=white&color=F2C811)](https://github.com/btwitravi/Instagram-Analytics-Dashboard-SQL-Power-BI-/blob/main/Dashboard/Instagram_Dashboard.png)
+)
 
 
 A complete Instagram analytics project using **SQL** for data analysis and **Power BI** for visualization.  
