@@ -7,8 +7,8 @@ This project identifies engagement trends, traffic source performance, follower 
 
 ## 🔗 Quick Access
 
-[![SQL](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00618A)](https://github.com/btwitravi/Instagram-Analytics-Dashboard-SQL-Power-BI-/blob/main/SQL/instagram_queries.sql)
-[![Power BI](https://img.shields.io/badge/PowerBI-Analytics-informational?style=flat&logo=powerbi&logoColor=white&color=F2C811)](https://github.com/btwitravi/Instagram-Analytics-Dashboard-SQL-Power-BI-/blob/main/Dashboard/Instagram_Dashboard.png)
+[![SQL](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00618A)](https://github.com/btwitravi/Instagram-Analytics-Dashboard-SQL-Power-BI-/blob/main/Instagram_Queries.sql)
+[![Power BI](https://img.shields.io/badge/PowerBI-Analytics-informational?style=flat&logo=powerbi&logoColor=white&color=F2C811)](https://github.com/btwitravi/Instagram-Analytics-Dashboard-SQL-Power-BI-/blob/main/Instagram_Dashboard.png)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/btwitravi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-gupta-161745247/)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:Ravikumargupta462@gmail.com)
@@ -34,8 +34,9 @@ Analyze Instagram post performance to identify:
 |------------|-------------|
 | **Problem_Statement.pdf** | Business context & analysis objective |
 | **Instagram_Dashboard.pbix** | Full Power BI dashboard file |
-| **Dashboard/Instagram_Dashboard.png** | Dashboard preview |
-| **SQL/instagram_queries.sql** | All SQL analysis queries |
+| **Instagram_Dashboard.png** | Dashboard preview |
+| **instagram_queries.sql** | All SQL analysis queries |
+| **Insagram_Analytics.csv** | Csv File
 
 ---
 
