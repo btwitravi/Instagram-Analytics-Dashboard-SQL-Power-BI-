@@ -65,9 +65,9 @@ All queries are available in:
 
 ## 👤 Author  
 **Ravi Kumar Gupta**  
-📧 Ravikumargupta462@gmail.com  
-🔗 LinkedIn: *(Add your link)*  
-⬆ GitHub: btwitravi  
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ravikumargupta462@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/btwitravi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-gupta-161745247/)
 
 ---
 
